@@ -1,4 +1,4 @@
-#Working on a database chinook.db that i got frome codeacademy using mysql with the jupyter notebook to answer the following questions from the database:
+# Working on a database chinook.db that i got frome codeacademy using mysql with the jupyter notebook to answer the following questions from the database:
 
     __1.Which tracks appeared in the most playlists?How many playlists did they appear in?__
     
