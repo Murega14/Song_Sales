@@ -1,4 +1,4 @@
-# Working on a database chinook.db that i got frome codeacademy using mysql and visualizing the query output with jupyter notebook to answer the following questions
+# Working on a database chinook.db that i got from codeacademy using mysql and visualizing the query output with jupyter notebook to answer the following questions
 
 **
 
